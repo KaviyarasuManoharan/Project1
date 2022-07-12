@@ -1,0 +1,1 @@
+This line is typed using cat > name.txt where as previous line was done by notepad.txt
